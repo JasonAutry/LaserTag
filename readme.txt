@@ -1,1 +1,3 @@
-temp
+#Laser Tag
+
+This was most of my part of a laser tag application that I created as part of a group. The app allowed you to join teams and then view the real world location of your teammates on a live updating map and wirelessly connect your phone to a laser gun. My responability was to create the game UI, manage data transfer between the phone and Firebase Database, and perform most of the game logic. I used a tool called Mapbox that allowed me to place markers on a real world map based on the user's phone's GPS data. Many parts of the project can not be uploaded to github due to size restrictions but these are the files I produced for the project. This was the first time using Unity and C# for my whole team and I.
